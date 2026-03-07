@@ -10,4 +10,5 @@ Pueden hacer lo que quieran...
 Este es un mensaje editado completamente desde github
 
 ### Extra
-Estos cambios son nuevos desde github
+Estos cambios son nuevos desde ambas plataformas
+
